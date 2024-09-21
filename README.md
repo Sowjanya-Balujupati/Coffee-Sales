@@ -6,7 +6,7 @@ In this Coffee Sales Dashboard project, an exploratory data analysis was perform
 
 - [Introduction](#introduction)
 - [Prerequisites](#Prerequisites)
-- [Cleaning and Processing the data](#Cleaning_and_Processing_the_data)
+- [Cleaning_and_Processing_the_data](#Cleaning_and_Processing_the_data)
 - [Usage](#Usage)
 - [Visualization](#Visualization)
 
