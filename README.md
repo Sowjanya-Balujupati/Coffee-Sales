@@ -34,7 +34,7 @@ Additionally, Top 5 customers were also identified.
 * The data which we have collected will now be used in creating the Pivot tables and charts.
 * These charts helps us to analyse and visualize the data.
 
-### Visulaization
+### Visualization
 
 * Pivot chart with graph is created based on the total sales over time by coffee type and adjust the design based on your interest.
 * Created a timeline which calculates the orders based on the months and adjusted the design.
@@ -43,3 +43,6 @@ Additionally, Top 5 customers were also identified.
 * Arrange the charts, timeline and splicers in the orderly manner and create a dashboard
 * ```Last and main step is to click report connections for each chart/table/graph in the dashboard so that the data can be visualized by filtering the fields```.
   
+** Final dashboard look below **
+  ![Capture](https://github.com/user-attachments/assets/612ca02c-3a64-4ec9-aada-92f6d1be352f)
+ 
